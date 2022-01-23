@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**markdevs/markdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="scores">
+<img width="180" src="https://github-readme-stats.vercel.app/api?username=mardevs&show_icons=true&theme=radical)">
+</div>
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
