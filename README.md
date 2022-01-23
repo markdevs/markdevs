@@ -6,9 +6,11 @@
 </div>
 <div style="margin-top: 130px">
   ### Repo 👋
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=markdevs&repo=supermarket-list" />
-</a>
+    <div>
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=markdevs&repo=supermarket-list" />
+      </a>
+    </div>
 </div>
 
 <!--
