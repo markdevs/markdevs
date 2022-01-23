@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div class="scores">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mardevs&show_icons=true&theme=radical)">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mardevs&show_icons=true&theme=gruvbox)">
 </div>
 
 
