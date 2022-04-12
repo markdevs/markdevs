@@ -1,8 +1,8 @@
 ### Olá Pessoal 👋
 
 <div class="scores">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mardevs&show_icons=true&theme=radical&title_color=#66D37E">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markdevs&layout=compact&theme=radical&title_color=#66D37E">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mardevs&show_icons=true&theme=radical&title_color=#66D37E&count_private=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markdevs&layout=compact&theme=radical&title_color=#66D37E&count_private=false">
 </div>
 
 
