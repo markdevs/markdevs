@@ -5,13 +5,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markdevs&layout=compact&theme=radical&title_color=#66D37E&count_private=false">
 </div>
 <div>
-  <ul float="right">
-    <li><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-wordpress.svg"></li>
-    <li><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/vscode-icons_file-type-vue.png"></li>
-    <li><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-javascript.svg"></li>
-    <li><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-sass-1.svg"></li>
-    <li><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-figma.svg"></li>
-  </ul>
+  <div style="display: flex; align-items: flex-start;">
+    <div><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-wordpress.svg"></div>
+    <div><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/vscode-icons_file-type-vue.png"></div>
+    <div><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-javascript.svg"></div>
+    <div><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-sass-1.svg"></div>
+    <div><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-figma.svg"></div>
+  </div>
 </div>
 
 
