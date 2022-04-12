@@ -6,11 +6,11 @@
 </div>
 <div>
   <div style="display: flex; align-items: flex-start;">
-    <div style="width: 20%"><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-wordpress.svg"></div>
-    <div style="width: 20%"><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/vscode-icons_file-type-vue.png"></div>
-    <div style="width: 20%"><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-javascript.svg"></div>
-    <div style="width: 20%"><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-sass-1.svg"></div>
-    <div style="width: 20%"><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-figma.svg"></div>
+    <div style="width: 20% !important"><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-wordpress.svg"></div>
+    <div style="width: 20% !important"><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/vscode-icons_file-type-vue.png"></div>
+    <div style="width: 20% !important"><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-javascript.svg"></div>
+    <div style="width: 20% !important"><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-sass-1.svg"></div>
+    <div style="width: 20% !important"><img width="40px" src="https://cubotech.dev.br/wp-content/uploads/2021/09/icons8-figma.svg"></div>
   </div>
 </div>
 
