@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Projetos
 
-Ferramenta para capturar leads aplicando m~etricas de Customer Experience
+Ferramenta para capturar leads aplicando métricas de Customer Experience. Usando no Evento CX Summit
 https://app-quiz-teste.vercel.app/
 
 Site Track.co
