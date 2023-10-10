@@ -19,10 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Projetos
+
+
+### Projetos
 
 Ferramenta para capturar leads aplicando m~etricas de Customer Experience
 https://app-quiz-teste.vercel.app/
 
 Site Track.co
 https://track.co
+
+
+Site Cubotech
+https://cubotech.dev.br
