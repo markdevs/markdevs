@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Projetos
+
+Ferramenta para capturar leads aplicando m~etricas de Customer Experience
+https://app-quiz-teste.vercel.app/
+
+Site Track.co
+https://track.co
